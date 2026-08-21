@@ -1,4 +1,4 @@
-# 👨‍💻 SK Mohasin Raza | QA Engineer | Manual & Automation Testing
+# 👨‍💻 Sk Mohasin Raza | QA Engineer | Manual & Automation Testing
 
 **Fresher | QA Engineer | Manual & Automation Testing | Selenium WebDriver | Core Java | SQL | TestNG | Maven | Git | Jenkins | API Testing (Postman) | Agile | Immediate Joiner**
 
